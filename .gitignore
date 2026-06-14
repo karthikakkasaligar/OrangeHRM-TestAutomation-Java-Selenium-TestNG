@@ -1,6 +1,9 @@
 # Maven
 target/
 
+# TestNG Reports
+test-output/
+
 # Eclipse
 .classpath
 .project
